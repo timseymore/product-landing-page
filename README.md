@@ -1,2 +1,2 @@
 # product-landing-page
-a simple product landing page example
+A simple product landing page example
